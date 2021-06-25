@@ -1,0 +1,29 @@
+C:\Users\4to. INFORMATICA A\Desktop\EJER DE C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\4to. INFORMATICA A\Desktop\EJER DE C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\4to. INFORMATICA A\Desktop\EJER DE C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\4to. INFORMATICA A\Desktop\EJER DE C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\4to. INFORMATICA A\Desktop\EJER DE C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\4to. INFORMATICA A\Desktop\EJER DE C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\4to. INFORMATICA A\Desktop\EJER DE C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\4to. INFORMATICA A\Desktop\EJER DE C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\4to. INFORMATICA A\Desktop\EJER DE C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Swords\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Swords\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Swords\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Swords\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Database.mdb
+C:\Users\Swords\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Swords\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Swords\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Swords\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Swords\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Swords\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Swords\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MainMenuSystem.resources
+C:\Users\Swords\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Rregister.resources
+C:\Users\Swords\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\Virgen Sonita\Desktop\Desktop222\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojAssemblyReference.cache
+C:\Users\Virgen Sonita\Desktop\Desktop222\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MainMenuSystem.resources
+C:\Users\Virgen Sonita\Desktop\Desktop222\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Virgen Sonita\Desktop\Desktop222\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Rregister.resources
+C:\Users\Virgen Sonita\Desktop\Desktop222\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+C:\Users\Virgen Sonita\Desktop\Desktop222\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Virgen Sonita\Desktop\Desktop222\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
